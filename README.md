@@ -39,7 +39,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Osmar Castillo | oacastillol |
+| Christian Vaca | ccvacad     |
 
 ## Entrega
 
